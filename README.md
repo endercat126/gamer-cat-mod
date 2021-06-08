@@ -2,6 +2,9 @@
 
 Gamer Cat Mod for Terraria
 
+### Note:
+You currently need to use cheat sheet to obtain all items as catstone does not generate yet
+
 ## Install Instructions
 - Download the .tmod file and place in your mods folder
 - Launch tModLoader
