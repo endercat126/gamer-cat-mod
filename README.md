@@ -1,4 +1,5 @@
-# Gamer Cat Mod ![](https://github.com/endercat126/gamer-cat-mod/blob/main/icon.png?raw=true) 
+![](https://github.com/endercat126/gamer-cat-mod/blob/main/icon.png?raw=true)
+# Gamer Cat Mod
 Gamer Cat Mod for Terraria
 
 ## Install Instructions
