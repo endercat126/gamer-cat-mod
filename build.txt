@@ -1,0 +1,3 @@
+displayName = [c/7ABADD:Gamer Cat Mod]
+author = Endercat126
+version = 0.2
